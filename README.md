@@ -1,6 +1,6 @@
 # Swati Sucharita Apatta  
 
-💻 **Aspiring Software Engineer** | 🎨 **UI/UX Design Enthusiast** | 🌐 **Web Development Learner**  
+💻 **Aspiring Software Engineer**
 
 ---
 
