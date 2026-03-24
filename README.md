@@ -1,81 +1,18 @@
-# Swati Sucharita Apatta
+# 💫 About Me:
+🔭 I'm currently working on EchoMind — an AI-powered mental wellness assistant<br>👯 I'm looking to collaborate on real-world web development & AI-based projects<br>🤝 I'm looking for help with backend development, deployment & scaling applications<br>🌱 I'm currently learning Full-stack development (React, Node.js) & DSA<br>💬 Ask me about HTML, CSS, JavaScript, React & beginner-friendly projects<br>⚡ Fun fact: I focus on building real projects instead of just watching tutorials
 
-💻 **AI & Full-Stack Developer**
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/swatisucharitaapatta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:swatisucharitaapatta) 
 
-## 👩‍💻 About Me
-AI-focused software engineer with experience building full-stack web applications and AI-powered tools using **Python, JavaScript, React, and Node.js**.
-
-I enjoy developing intelligent applications, scalable backend systems, and data-driven solutions. My work focuses on integrating AI capabilities such as conversational assistants, automation tools, and analytics platforms into modern web applications.
-
-Currently exploring **AI-powered SaaS platforms, LLM integrations, and data analytics systems.**
-
----
-
-## 🚀 Areas of Interest
-- Artificial Intelligence & LLM Applications
-- Full-Stack Web Development
-- Data Analytics & Automation
-- Scalable SaaS Platforms
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=swatisucharita-04&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=swatisucharita-04&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=swatisucharita-04&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=swatisucharita-04&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🧠 Tech Stack
-
-### Programming Languages
-- Python
-- JavaScript
-- C++
-
-### Frontend Development
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-
-### Backend Development
-- Node.js
-- Express.js
-- Flask
-
-### Databases
-- MySQL
-- SQLite
-- PostgreSQL
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- Postman
-- Figma
-
----
-
-## 📂 Featured Projects
-
-### NovaAI Studio
-AI-powered SaaS platform for content generation and automation.
-
-### EchoBot
-Conversational AI chatbot with speech-to-text and text-to-speech integration.
-
-### Customer Behavior Analytics
-Data analytics platform built using Python and PostgreSQL.
-
-### SplitSense AI
-Smart expense splitting web application.
-
----
-
-## 📈 Currently Learning
-- Advanced Python for AI applications
-- LLM API integrations
-- System design for scalable applications
-
----
-
-## 🤝 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/swatisucharitaapatta/
-- GitHub: https://github.com/swatisucharita-04
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
